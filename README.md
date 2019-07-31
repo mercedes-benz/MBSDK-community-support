@@ -22,17 +22,17 @@ This repository serves as central collaboration space for the SDK community. It 
 
 Find all SDK modules which are  needed to build an mobile app, plus doc
 
-You need the modules
- - mbsdk-module-appfamily-android
- - mbsdk-module-mycar-android
- - mbsdk-module-common-android
- - mbsdk-module-realm-android
- - mbsdk-module-network-android
- - mbsdk-module-ui-android
- - mbsdk-module-login-android
+You need these Android module repositories (for iOS these are suffixed with `-ios` )
+ - `mbsdk-module-appfamily-android`
+ - `mbsdk-module-mycar-android`
+ - `mbsdk-module-common-android`
+ - `mbsdk-module-realm-android`
+ - `mbsdk-module-network-android`
+ - `mbsdk-module-ui-android`
+ - `mbsdk-module-login-android`
  
-and find the respective documentation here 
- - mbsdk-module-doc-android
+and find the respective documentation here (for iOS suffixed with `-ios` )
+ - `mbsdk-module-doc-android`
 
 for overview and API licenses go to https://developer.mercedes-benz.com/ (select menue item "SDK").
 
