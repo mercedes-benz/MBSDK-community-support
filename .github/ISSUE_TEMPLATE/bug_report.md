@@ -1,8 +1,8 @@
 ---
 name: "Bug report"
 about: Create an SDK bug report to help us improve
-labels: bug, Community&Support
-projects:  Community-Support
+labels: bug
+projects:  Mercedes-Benz Mobile SDK
 assignees: 
 title: 'SDK Bug: <short bug title>'
 
