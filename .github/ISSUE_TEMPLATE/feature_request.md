@@ -4,7 +4,7 @@ name: Feature request
 about: Suggest a feature for the SDK project
 title: "SDK Feature request: <short title>"
 assignees:  
-projects: "Community & Support"
+projects: "Mercedes-Benz Mobile SDK"
 ---
 <!-- 
 Start of comment: Quick instructions how to complete this form.  It will NOT appear in your submitted issue.
