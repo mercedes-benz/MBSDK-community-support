@@ -20,9 +20,9 @@ This repository serves as central collaboration space for the SDK community. It 
 
 ## Installation
 
-The SDK code which is needed to build an mobile app, plus documnetation is available as follows: 
+The SDK code which is needed to build an mobile app for Android (or iOS) and documentation is available as follows: 
 
-You need these Android module repositories (for iOS these are suffixed with `-ios` )
+You need these Android module repositories (for iOS suffixed with `-ios` )
  - `mbsdk-module-appfamily-android`
  - `mbsdk-module-mycar-android`
  - `mbsdk-module-common-android`
