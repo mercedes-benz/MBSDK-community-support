@@ -1,5 +1,5 @@
 ---
-labels: feature request, Community&Support
+labels: feature request
 name: Feature request
 about: Suggest a feature for the SDK project
 title: "SDK Feature request: <short title>"
