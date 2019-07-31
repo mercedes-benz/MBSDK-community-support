@@ -20,7 +20,7 @@ This repository serves as central collaboration space for the SDK community. It 
 
 ## Installation
 
-The SDK modules which are needed to build an mobile app, plus documnetation is available as follows: 
+The SDK code which is needed to build an mobile app, plus documnetation is available as follows: 
 
 You need these Android module repositories (for iOS these are suffixed with `-ios` )
  - `mbsdk-module-appfamily-android`
