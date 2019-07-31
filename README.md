@@ -1,13 +1,40 @@
 <!-- SPDX-License-Identifier: MIT -->
-# My Project
+# Central collaboration space for the App community of the Mercedes-Benz Mobile SDK  
 
 ## Intended Usage
 
-⚠️ //TODO// Describe your example! Eg: This project is made for cooking the best Tiramisu. It works best with high quality ingredients and the best tools. Please describe your project as accurately and concisely as possible to help others understand your use case.
+The Mercedes-Benz Mobile SDK.
+
+The Mercedes-Benz Mobile SDK (Software Development Kit) encapsulates **customer and car data** and **vehicle functions** needed to develop mobile apps for Mercedes Benz cars, which are enabled for Mercedes me services. 
+
+In addition, the SDK provides basic functions like registration, password-less login, vehicle assignment and service activation for all SDK app developers and thus helps them to concentrate on the main purpose and business value of the app. 
+
+The underlying architecture is reliable and includes worldwide scalable components for building your own Mercedes-Benz Mobile app which could interoperate with other Mercedes me app family members (e.g.by leveraging cross app login, shared vehicle data).
+
+We provide all **modules** and **documentation** for Android and iOS to include into your native app.\
+Also, we provide an **sample app** for your reference, to allow quickly understand the power of the SDK. This app can be build easily by everyone and may be helpful while you develop your own app. 
+
+
+## Purpose of this repository
+This repository serves as central collaboration space for the SDK community. It does not contain the SDK code: please see next section for that.  
 
 ## Installation
 
-⚠️ //TODO// Add your information and describe how the project can be used.
+Find all SDK modules which are  needed to build an mobile app, plus doc
+
+You need the modules
+ - mbsdk-module-appfamily-android
+ - mbsdk-module-mycar-android
+ - mbsdk-module-common-android
+ - mbsdk-module-realm-android
+ - mbsdk-module-network-android
+ - mbsdk-module-ui-android
+ - mbsdk-module-login-android
+ 
+and find the respective documentation here 
+ - mbsdk-module-doc-android
+
+for overview and API licenses go to https://developer.mercedes-benz.com/ (select menue item "SDK").
 
 ## Contributing
 
