@@ -20,7 +20,7 @@ This repository serves as central collaboration space for the SDK community. It 
 
 ## Installation
 
-Find all SDK modules which are  needed to build an mobile app, plus doc
+The SDK modules which are needed to build an mobile app, plus documnetation is available as follows: 
 
 You need these Android module repositories (for iOS these are suffixed with `-ios` )
  - `mbsdk-module-appfamily-android`
@@ -34,7 +34,7 @@ You need these Android module repositories (for iOS these are suffixed with `-io
 and find the respective documentation here (for iOS suffixed with `-ios` )
  - `mbsdk-module-doc-android`
 
-for overview and API licenses go to https://developer.mercedes-benz.com/ (select menue item "SDK").
+for an SDK overview and API licenses go to https://developer.mercedes-benz.com/ (select menue item "SDK").
 
 ## Contributing
 
