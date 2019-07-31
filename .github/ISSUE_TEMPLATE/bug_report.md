@@ -2,7 +2,7 @@
 name: "Bug report"
 about: Create an SDK bug report to help us improve
 labels: bug
-projects:  Mercedes-Benz Mobile SDK
+projects: 'Mercedes-Benz Mobile SDK'
 assignees: 
 title: 'SDK Bug: <short bug title>'
 
