@@ -14,11 +14,13 @@ The underlying architecture is reliable and includes worldwide scalable componen
 We provide all **modules** and **documentation** for Android and iOS to include into your native app.\
 Also, we provide an **sample app** for your reference, to allow quickly understand the power of the SDK. This app can be build easily by everyone and may be helpful while you develop your own app. 
 
+We also provide two **Simple Reference Apps** of the SDK for Android and iOS which allow you to first see and understand how the SDK works, these are contained in two separate repostories, listed below.
+
 
 ## Purpose of this repository
 This repository serves as central collaboration space for the SDK community. It does not contain the SDK code: please see next section for that.  
 
-## Installation
+## Installation of the SDK
 
 The SDK code which is needed to build mobile apps for Android (or iOS) and documentation is available as follows: 
 
@@ -35,6 +37,12 @@ and find the respective documentation here (for iOS suffixed with `-ios` )
  - `mbsdk-module-doc-android`
 
 for an SDK overview and API licenses go to https://developer.mercedes-benz.com/ (select menue item "SDK").
+
+## Simple Reference Apps for the SDK
+
+The simple reference apps for Android and iOS with documentation are available here: 
+ - `mbsdk-refapp-simple-android`
+ - `mbsdk-refapp-simple-ios`
 
 ## Contributing
 
