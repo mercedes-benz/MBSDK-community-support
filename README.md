@@ -25,10 +25,10 @@ The SDK code which is needed to build mobile apps for Android (or iOS) and docum
 
 You need these Android module repositories (for iOS suffixed with `-iOS` )
  - `MBSDK-Mobile-Android`
- - `MBSDK-Ingress-Android`
- - `MBSDK-Mycar-Android`
+ - `MBSDK-CarKit-Android`
  - `MBSDK-CommonKit-Android`
  - `MBSDK-DeeplinkKit-Android`
+ - `MBSDK-IngressKit-Android`
  - `MBSDK-NetworkKit-Android`
  - `MBSDK-RealmKit-Android`
  - `MBSDK-SupportKit-Android`
