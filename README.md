@@ -29,6 +29,7 @@ You need these Android module repositories (for iOS suffixed with `-iOS` )
  - `MBSDK-CommonKit-Android`
  - `MBSDK-DeeplinkKit-Android`
  - `MBSDK-IngressKit-Android`
+ - `MBSDK-LoggerKit-Android` (Android only)
  - `MBSDK-NetworkKit-Android`
  - `MBSDK-RealmKit-Android`
  - `MBSDK-SupportKit-Android`
