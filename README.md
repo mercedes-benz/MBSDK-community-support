@@ -35,10 +35,7 @@ You need these Android module repositories (for iOS suffixed with `-iOS` )
  - `MBSDK-SupportKit-Android`
  - `MBSDK-UIKit-Android`
  
-and find the respective documentation here (for iOS suffixed with `-iOS` )
- - `MBSDK-doc-Android`
-
-for an SDK overview and API licenses go to https://developer.mercedes-benz.com/ (select menue item "SDK").
+and find the respective documentation, SDK overview and API licenses on https://developer.mercedes-benz.com/ (select menue item "SDK").
 
 ## Example Apps for the SDK
 
