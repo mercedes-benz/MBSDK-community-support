@@ -15,6 +15,8 @@ Also, we provide an **sample app** for your reference, to allow quickly understa
 
 We also provide two **Example Apps** of the SDK for Android and iOS which allow you to first see and understand how the SDK works, these are contained in two separate repostories, listed below.
 
+## News 
+**Join Early Access Phase now** - find more information her:  https://developer.mercedes-benz.com/news/sdk-golive
 
 ## Purpose of this repository
 This repository serves as central collaboration space for the SDK community. It does not contain the SDK code: please see next section for that.  
